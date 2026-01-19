@@ -210,3 +210,48 @@ body{
     height: 125.21px;
     background-color: #FFFFFF;
 }
+
+.p1-pt3{
+    width: 145.03px;
+    height: 17.34px;
+    font-size: 13.48px;
+}
+
+.bngk-size{
+    font-size: 23.12px;
+    width: 94.39px;
+    height: 33.71px;
+}
+
+.pt3content-margin{
+    margin-left: 14.45px;
+    margin-top: 17.34px;
+}
+
+.pt3img-margin{
+    margin-top: 15.74px;
+}
+
+.pt3date-margin{
+    margin-left: 14.45px;
+    margin-top: 26.01px;
+    margin-right: 71.28px;
+}
+
+.p3-date{
+    font-size: 13.48px;
+}
+
+.pt3-imglines{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.pt3price-margin{
+    margin-top: 10.52px;
+}
+
+.lineheight-none{
+    line-height: 0;
+}
