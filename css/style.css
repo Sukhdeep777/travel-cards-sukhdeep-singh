@@ -5,6 +5,8 @@ body{
     background-color: #e0dede;
 }
 
+/*Body con cero margenes ni padding y solo con color de fondo para que se pueda diferenciar con los prototipos o los fondos puestos*/
+
 /*Index.HTML*/
 
 .Index-title{
@@ -35,19 +37,19 @@ body{
     justify-content: center;
 }
 
-.flex{
+.flex{ /*para poner flex*/
     display: flex;
 }
 
-.gap{
+.gap{ /*Un gap de 16px*/
     gap: 16px;
 }
 
-.bold{
+.bold{ /*Para poner la fuente como si fuese un strong*/
     font-weight: bold;
 }
 
-.item-gallery{
+.item-gallery{ /*la parte de como he hecho la galeria con doble borde i de fondo blanco*/
     border: 1px solid black;
     padding: 40px;
     border-radius: 16px;
