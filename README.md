@@ -12,6 +12,9 @@ Hem fet unes travel cards (Hem agafat 4 de 12)
 
 Per poder visualtizar el projecte, entreu en el index.html i vereu 4 imatges.
 
+## Enllaç a Github page
+https://sukhdeep777.github.io/travel-cards-sukhdeep-singh/
+
 ## Autor
 Sukhdeep Singh
 
