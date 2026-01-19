@@ -1,7 +1,7 @@
 
 body{
     padding: 0;
-    margin: 5;
+    margin: 0;
     background-color: #e0dede;
 }
 
@@ -87,7 +87,7 @@ body{
 
 .c1-principaltext{
     width: 121.55px;
-    height: 31.19;
+    height: 31.19px;
     font-size: 11.52px;
     font-weight: 400;
     margin-left: 7.68px;
@@ -155,12 +155,9 @@ body{
 
 .fondo-2{
     width: 309.39px;
-    height: 242.07;
+    height: 242.07px;
 }
 
-.img-temple{
-    background: linear-gradient(bottom, #000000, #FFFFFF);
-}
 
 .background{
     position: absolute;
