@@ -255,3 +255,43 @@ body{
 .lineheight-none{
     line-height: 0;
 }
+
+/*Prototip 4*/
+
+.fondo-4{
+    width: 270.04px;
+    height: 123.34px;
+    background-color: #FFFFFF;
+}
+
+.text4-1{
+    margin-top: 18.03px;
+    margin-left: 14.23px;
+}
+
+.img4{
+    margin-top: 15.5px;
+    margin-left: 103.9px;
+}
+
+.sizetext2{
+    font-size: 17.08px;
+}
+
+.sizetext1{
+    font-size: 11.39px;
+}
+
+.margintext4{
+    margin-left: 14.23px;
+    margin-bottom: 8px;
+    gap: 64px;
+}
+
+.button{
+    color: #00AEFF;
+    border: 1px solid #00AEFF;
+    background-color: #00000000;
+    width: 96.78px;
+    height: 40.8px;
+}
