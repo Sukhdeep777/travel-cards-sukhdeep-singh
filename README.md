@@ -10,7 +10,9 @@ Hem fet unes travel cards (Hem agafat 4 de 12)
 
 ## Com visualitzar
 
-Per poder visualtizar el projecte, entreu en el index.html i vereu 4 imatges.
+1. Per poder visualtizar el projecte, entreu en el index.html i vereu 4 imatges.
+2. Si entreu en cadascuna podeu veure que s'obra en una pestanya nova.
+3. Així podeu observar el meu projecte.
 
 ## Enllaç a Github page
 https://sukhdeep777.github.io/travel-cards-sukhdeep-singh/
