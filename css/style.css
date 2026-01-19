@@ -271,7 +271,7 @@ body{
 
 .img4{
     margin-top: 15.5px;
-    margin-left: 103.9px;
+    margin-left: 104.9px;
 }
 
 .sizetext2{
@@ -283,9 +283,10 @@ body{
 }
 
 .margintext4{
-    margin-left: 14.23px;
+    margin-left: 12.23px;
     margin-bottom: 8px;
-    gap: 64px;
+    gap: 32px;
+    margin-top: 19.39px;
 }
 
 .button{
@@ -298,11 +299,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 11.39px;
+    margin-right: 19.39px;
     font-size: 15.18px;
 }
 
 .texthour{
-    width: 57.88px;
+    width: 60.88px;
     height: 24.67px;
+}
+
+.ibd{
+    font-size: 22.77px;
 }
